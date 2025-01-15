@@ -4,6 +4,6 @@
 
 之後啟用服務在8080 port
 
-如果你跟我一樣用老老 python的話
+如果你跟我一樣用老老 python2 的話
 
 可以直接在專案中下 python -m SimpleHTTPServer 8080
